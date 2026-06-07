@@ -10,7 +10,7 @@ permissions:
 env:
   ACR_NAME: acrtodoappsiddharth1
   ACR_LOGIN_SERVER: acrtodoappsiddharth1.azurecr.io
-  IMAGE_NAME: DeleteTask
+  IMAGE_NAME: deletetask
 
 jobs:
   build-and-push:
